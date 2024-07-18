@@ -14,4 +14,4 @@ In all cases a fix is always welcome.
 
 ## Rolling out security updates
 
-A built-in update mechanism (optional) may take up to 1 week before an update takes place. It's good to avoid disseminating details of vulnerabilities during this time. Black hats may be watching!
+It's good to avoid disseminating details of vulnerabilities for some time after they're fixed because it gives time for regular users to safely update. Black hats may be watching!
